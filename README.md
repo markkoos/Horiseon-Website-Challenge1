@@ -1,6 +1,6 @@
 # UCI-Challenge-1-Oh-God
 
-## Horizeon Website Challenge
+## Horiseon Website Challenge
 
 ```
 Was tasked with optimizing the source code for a business optimization website
