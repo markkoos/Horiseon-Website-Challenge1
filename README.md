@@ -12,4 +12,4 @@ Improved organization of the code under the <body> header for ease of access
 
 Horiseon is a search engine optimization service (SEO) that helps your business become easier to access and find in today's search engines. 
 
-![Alt text](pictures/screenshot.png)
+![Alt text](assets/pictures/screenshot.png)
